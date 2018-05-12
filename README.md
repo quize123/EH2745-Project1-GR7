@@ -32,9 +32,15 @@ This class includes program main graphical user interface and program excution s
 Secoundry classes are:
 
 CalculateYBus.java - Contains methods used for Y bus calculations
+
 CMPLX.java - Contains methods used for dealing with complex numbers
+
 DataBaseClass.java - Contain methods used for dealing with database
+
 DatabaseUserChecker.java - Contain login frame and user athentication (Localhost / User: root / Password: y9mkrg6wyc8r)
+
 ReadEQfile.java - Contains methods used to read and parse EQ file
+
 ReadSSHfile.java - Contains methods used to read and parse SSH file
+
 YbusGUI.java - Contains methods used for Y bus GUI representation
