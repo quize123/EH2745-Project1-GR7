@@ -13,14 +13,20 @@ The primary main class is Project1.java
 This class includes program main graphical user interface and program excution stages which are:
 
 1- Import EQ file using file browser
+
 2- Import SSH file using file browser
+
 3- Login to database frame and establish connection 
+
 4- Parse and store related data in arraylist
+
 5- Create and upload related data to database
+
 6- Calculate Y matrix
+
 7- Show Y matrix in seperated frame as a table
 
-------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Secoundry classes are:
 
