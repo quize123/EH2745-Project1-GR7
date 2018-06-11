@@ -343,7 +343,7 @@ private void DatabaseLog(){
 	    	
 	   try {
 	    		Class.forName("com.mysql.jdbc.Driver");
-	    		String dbUrl="jdbc:mysql://localhost/testing?user=root&password=y9mkrg6wyc8r";
+	    		String dbUrl="jdbc:mysql://localhost/subtables?user=root&password=y9mkrg6wyc8r";
 	    		DriverManager.getConnection(dbUrl);
 	    		
 	    	} catch (ClassNotFoundException | SQLException e2) {
